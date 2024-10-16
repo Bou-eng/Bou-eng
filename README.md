@@ -4,7 +4,7 @@
 - 📫 You can contact me via "med_ebbou" Instagram username
 - 😄 Pronouns: Mr
 - 🚀 Goal: To master Python well enough to automate my morning routine (and maybe world domination).
-- 📚 Favorite pastime: Reading code like it’s a mystery novel—plot twists included!
+- 📚 Reading code like it’s a mystery novel—plot twists included!
 - ⚡ Fun fact: Smart enough to automate my tasks, lazy enough to actually do it 😄
 
 <!---
