@@ -21,8 +21,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bou-eng&theme=dark)
 
 - 🌟 GitHub Stars:
--
-- ![GitHub Stars](https://img.shields.io/github/stars/username?label=Stars&style=social)
+- ![GitHub Stars](https://img.shields.io/github/stars/Bou-eng?label=Stars&style=social)
 
 
 <!---
