@@ -25,8 +25,10 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Bou-eng&theme=darkhub)
 
 ✍️ Random Dev Quote
+
 "First, solve the problem. Then, write the code."
 — John Johnson
+
 
 - 🌟 GitHub Stars:
 - ![GitHub Stars](https://img.shields.io/github/stars/Bou-eng?label=Stars&style=social)
