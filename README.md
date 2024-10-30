@@ -34,11 +34,7 @@
 - 🌟 GitHub Stars:
 - ![GitHub Stars](https://img.shields.io/github/stars/Bou-eng?label=Stars&style=social)
 
-## 🧰 Tech & Tools
 
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
 <!---
