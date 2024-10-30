@@ -10,7 +10,7 @@
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bou-eng&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bou-eng&layout=compact&count_private=true&theme=dark)
+
 
 ## 💻 Top Languages
 
