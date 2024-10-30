@@ -20,6 +20,11 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bou-eng&theme=dark)
 
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Bou-eng&theme=darkhub)
+
+
 - 🌟 GitHub Stars:
 - ![GitHub Stars](https://img.shields.io/github/stars/Bou-eng?label=Stars&style=social)
 
