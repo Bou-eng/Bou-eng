@@ -7,6 +7,9 @@
 - 📚 Reading code like it’s a mystery novel—plot twists included!
 - ⚡ Fun fact: Smart enough to automate my tasks, lazy enough to actually do it 😄
 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bou-eng&show_icons=true&theme=dark)
 <!---
 Bou-eng/Bou-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
