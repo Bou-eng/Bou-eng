@@ -20,6 +20,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bou-eng&theme=dark)
 
+![GitHub stars](https://img.shields.io/github/stars/Bou-eng?style=social)
 <!---
 Bou-eng/Bou-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
