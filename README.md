@@ -7,6 +7,13 @@
 - 📚 Reading code like it’s a mystery novel—plot twists included!
 - ⚡ Fun fact: Smart enough to automate my tasks, lazy enough to actually do it 😄
 
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohameden-bou)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/medebbou)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/Bou-eng)
+
+
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bou-eng&show_icons=true&theme=dark)
