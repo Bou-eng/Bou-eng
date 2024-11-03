@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bou-eng
 - 👀 I’m interested in web developmet and AI
-- 🌱 I’m currently learning advanced Python (still taming the syntax beast!)
+- 🌱 I’m currently learning API's using Python
 - 📫 You can contact me via "med_ebbou" Instagram username
 - 😄 Pronouns: Mr
 - 🚀 Goal: To master Python well enough to automate my morning routine (and maybe world domination).
