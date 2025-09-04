@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Bou-eng
-- 👀 I’m interested in web developmet and AI
-- 🌱 I’m currently learning API's using Python
-- 📫 You can contact me via "med_ebbou" Instagram username
-- 😄 Pronouns: Mr
-- 🚀 Goal: To master Python well enough to automate my morning routine (and maybe world domination).
-- 📚 Reading code like it’s a mystery novel—plot twists included!
-- ⚡ Fun fact: Smart enough to automate my tasks, lazy enough to actually do it 😄
+# 👋 Hi, I’m @Bou-eng
+
+- 👀 I’m interested in **Machine Learning, Data Science, and AI Engineering**  
+- 🌱 I’m currently learning **ML fundamentals, Python for Data Analysis, and building hands-on projects**  
+- 🎯 My goal: **to grow step by step into a solid AI/ML engineer** while keeping things practical and fun  
+- 📊 I enjoy exploring data, uncovering patterns, and turning problems into projects  
+- 💬 Always open to learning, sharing, and collaborating with others in tech  
+- 📫 Reach me on Instagram: [@med_ebbou](https://instagram.com/med_ebbou)  
+- ⚡ Fun fact: I may not know everything, but I know how to ask the right questions (and let Python handle the heavy lifting 😄)  
 
 ## Connect with me
 
