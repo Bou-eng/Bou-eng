@@ -15,7 +15,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/Bou-eng)
 
 
-![Metrics](https://metrics.lecoq.io/Bou-eng)
+![Metrics](https://metrics.lecoq.io/Bou-eng?template=classic&languages=1&isocalendar=1&achievements=1&notable=1)
+
 
 https://www.gitclear.com/github_profile_dynamic_readme_free
 
