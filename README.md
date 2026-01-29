@@ -15,14 +15,20 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/Bou-eng)
 
 
-## 💻 Top Languages
+![Metrics](https://metrics.lecoq.io/Bou-eng)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bou-eng&layout=compact&langs_count=8&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+https://www.gitclear.com/github_profile_dynamic_readme_free
 
 
-## 🏆 GitHub Trophies
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bou-eng)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bou-eng&theme=darkhub)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bou-eng)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bou-eng)
+
+
+https://github.com/madushadhanushka/github-readme
+
 
 ✍️ Random Dev Quote
 
