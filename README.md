@@ -14,11 +14,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/medebbou)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/Bou-eng)
 
+https://github.com/marketplace/actions/repo-visualizer
 
-![Metrics](https://metrics.lecoq.io/Bou-eng?template=classic&languages=1&isocalendar=1&achievements=1&notable=1)
+https://github.com/marketplace/actions/repo-visualizer
 
+https://github.com/Bou-eng?tab=overview
 
-https://www.gitclear.com/github_profile_dynamic_readme_free
+https://www.computer.org/education/bodies-of-knowledge/software-engineering
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bou-eng)
@@ -28,7 +30,6 @@ https://www.gitclear.com/github_profile_dynamic_readme_free
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bou-eng)
 
 
-https://github.com/madushadhanushka/github-readme
 
 
 ✍️ Random Dev Quote
