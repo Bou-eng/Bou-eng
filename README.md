@@ -17,7 +17,8 @@
 
 ## 💻 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bou-eng)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bou-eng&layout=compact&langs_count=8&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🏆 GitHub Trophies
 
