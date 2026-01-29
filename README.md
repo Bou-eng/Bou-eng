@@ -17,11 +17,7 @@
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bou-eng&layout=compact&theme=dark)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bou-eng&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME)](https://github.com/anuraghazra/github-readme-stats)   
 
 ## 🏆 GitHub Trophies
 
@@ -33,9 +29,6 @@
 
 — John Johnson
 
-
-- 🌟 GitHub Stars:
-- ![GitHub Stars](https://img.shields.io/github/stars/Bou-eng?label=Stars&style=social)
 
 
 
