@@ -1,40 +1,53 @@
-# 👋 Hi, I’m @Bou-eng
+<h1 align="center">Hey 👋, I'm Mohamed</h1>
+<h3 align="center">Computer Engineering Student → Future Talented And Very Socaial Engineer ⚙️</h3>
 
-- 👀 I’m interested in **Machine Learning, Data Science, and AI Engineering**  
-- 🌱 I’m currently learning **ML fundamentals, Python for Data Analysis, and building hands-on projects**  
-- 🎯 My goal: **to grow step by step into a solid AI/ML engineer** while keeping things practical and fun  
-- 📊 I enjoy exploring data, uncovering patterns, and turning problems into projects  
-- 💬 Always open to learning, sharing, and collaborating with others in tech  
-- 📫 Reach me on Instagram: [@med_ebbou](https://instagram.com/med_ebbou)  
-- ⚡ Fun fact: I may not know everything, but I know how to ask the right questions (and let Python handle the heavy lifting 😄)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+systems...;Breaking+them...;Fixing+them+better.;Learning+non-stop.&center=true&width=500&height=45">
+</p>
 
-## Connect with me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohameden-bou)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/medebbou)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/Bou-eng)
+## 🧠 About Me
+
+- 🎓 Computer Engineering student  
+- 🧩 Focused on backend systems & scalable architectures  
+- 🛠️ Currently sharpening fundamentals (because magic ≠ production-ready code)  
+- 🌍 Exploring different fields to become a **well-rounded engineer**  
+- ⚡ Fun fact: I break things just to understand them better  
+
+---
+
+## ⚙️ What I Work With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,git,linux" />
+</p>
+
+*(Based on what actually appears in my repos — not what I "claim" to know 😌)*
+
+---
+
+## 🚧 What I'm Doing Right Now
+
+- 📚 Deep diving into backend fundamentals  
+- 🏗️ Building systems that (hopefully) don’t collapse under load  
+- 🧪 Experimenting across different areas of software engineering  
+- 🧠 Learning how to think like an engineer, not just code like one  
+
+---
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bou-eng)
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bou-eng&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bou-eng&layout=compact&theme=transparent" />
+</p>
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bou-eng)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bou-eng)
+---
 
+## 🎯 Philosophy
 
-
-
-✍️ Random Dev Quote
-
-"First, solve the problem. Then, write the code."
-
-— John Johnson
-
-
-
-
-
-<!---
-Bou-eng/Bou-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```text
+Not trying to be the best developer today.
+Trying to be better than yesterday — consistently.
