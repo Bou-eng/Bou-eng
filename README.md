@@ -12,7 +12,8 @@
 - 🎓 Computer Engineering student  
 - 🧩 Focused on backend systems & scalable architectures  
 - 🛠️ Currently sharpening fundamentals (because magic ≠ production-ready code)  
-- 🌍 Exploring different fields to become a **well-rounded engineer**  
+- 🌍 Exploring different fields to become a **well-rounded engineer**
+- ⚡ See My Portfolio: https://my-portfolio-taupe-eight-69.vercel.app/ 
 - ⚡ Fun fact: I break things just to understand them better  
 
 ---
